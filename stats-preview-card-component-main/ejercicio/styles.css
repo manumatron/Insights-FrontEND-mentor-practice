@@ -1,0 +1,89 @@
+
+
+  * {
+    outline: 1px solid red;
+}
+
+
+
+body {
+    background-color: blueviolet;
+    width: 100%;
+    height: auto;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+}
+
+h1 {
+font-weight: 900;
+
+}
+
+h2 {
+font-weight: 900;
+}
+
+p {
+font-weight: 100;
+}
+
+span {
+    color: violet;
+}
+
+img {
+    filter: ;
+}
+
+/*---- CLASS SELECTORS EN ORDEN ----*/
+
+
+.whole_container {
+    
+    width: 50%;
+    height: auto;
+    text-align: center
+    ;
+}
+
+
+
+.left_container {
+    background-color: blue;
+    
+}
+
+.right_container {
+    position: absolute;
+    width: 50%;
+    left: 620px;
+    bottom: 158px;
+}
+.lower_part {
+    
+}
+
+        /* --- lower part paragraphs  --- */
+        .right {
+            
+        
+        
+        width: 30%;
+        margin: 10px auto;
+        position: relative;
+        text-align: left;
+        }
+
+        .middle {
+        display: inline;
+        }
+
+        .left {
+            display: inline;
+        }
+        /* --- lower part paragraphs end--- */
+        #p {
+            padding: 0;
+            margin: 0;
+            
+        }
